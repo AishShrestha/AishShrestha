@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**AishShrestha/AishShrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">I'm Ayush, a CSIT student and backend developer from Pulbazar, Banepa, with a passion for crafting impactful web applications!</p>
+<h2 align="left">About Me</h2>
+<p align="left"> ✨ Turning coffee ☕ into code since 2023 📚 Currently diving into **React** and exploring the wonders of **frontend development** 🎯 **Goals**: To master full-stack development and create applications that solve real-world problems 🎨 Fun Fact: I'm a big fan of drawing—it’s my way to relax and express creativity! </p> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkYTVkZDc0OGQ1YjgzZmRkYTBlMjJhZjZkN2I5NzVjZDUyNzYzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EKPyd3aXZJZUAUehTF/giphy.gif" width="300" alt="Coding gif" />
+<h2 align="left">I Code With</h2>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" /> <img width="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" /> </div>
+<h2 align="left">What I'm Working On 🚀</h2>
+<p align="left"> 🔧 **Gym Tracker**: A fitness app for tracking workouts and progress 📚 **Book Review**: A book review and management system with role-based access 🌐 **Fotofolio**: A creative portfolio platform for photographers </p>
+<h2 align="left">Get in Touch 💬</h2>
+<p align="left"> 💼 Let's connect on <a href="https://linkedin.com/in/your-profile">LinkedIn</a> 📧 Reach me via email at **ayush.yourmail@example.com** 🌟 Follow me for exciting projects and updates! </p> <div align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Contact gif" /> </div>
